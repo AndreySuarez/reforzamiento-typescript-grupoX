@@ -1,5 +1,6 @@
 import './style.css'
 import './Ejercicios/01-variables'
+import './Ejercicios/02-template-string'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>

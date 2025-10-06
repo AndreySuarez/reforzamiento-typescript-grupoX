@@ -19,3 +19,7 @@ En este ejercicio se utiliza una interfaz para definir la estructura que deben s
 # ejercicio 4:
 Este ejercicio implementa un programa en TypeScript que calcula el promedio de un arreglo de calificaciones usando un bucle for.
 Permite reforzar el uso de arreglos, ciclos y operaciones básicas con números.
+
+# Ejercicio 5:
+Este ejercicio define una función en TypeScript que calcula el promedio de un arreglo de números usando el método reduce().
+Reforzó el uso de funciones, tipado y métodos de arreglos.

@@ -10,3 +10,7 @@ Se declaran con el objetivo de comprender la diferencia entre los tipos de varib
 # Ejercicio 2
 
 Este ejercicio muestra cómo usar template strings o plantillas literales las cuales utilizan los backticks (`) para imprimir un mensaje por consola e insertar variables dentro del texto de forma más clara y legible, evitando concatenaciones con +.
+
+# Ejercicio 3
+
+En este ejercicio se utiliza una interfaz para definir la estructura que deben seguir los objetos o atributos de tipo Estudiante, además de crear un metodo de tipo flecha que retorna un string, esto resaltando la organización del código, asegurando que el objeto cumpla con los tipos y propiedades esperados.

@@ -4,10 +4,10 @@
 ### Edwin Alexis Leiva Bello
 ### Brayan Fernando Jimenez Murcia
 
-ejercicio 4:
+# ejercicio 4:
 
  Descripción
 
-Este ejercicio define una función en TypeScript que calcula el promedio de un arreglo de números usando el método reduce().
-Reforzó el uso de funciones, tipado y métodos de arreglos.
 
+Este ejercicio implementa un programa en TypeScript que calcula el promedio de un arreglo de calificaciones usando un bucle for.
+Permite reforzar el uso de arreglos, ciclos y operaciones básicas con números.

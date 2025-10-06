@@ -27,3 +27,7 @@ Reforzó el uso de funciones, tipado y métodos de arreglos.
 # Ejercicio 6
 Este código crea un objeto llamado estudiante con varias propiedades (nombre, edad, carrera y promedio).
 Luego usa la desestructuración de objetos para extraer solo las propiedades nombre y carrera, y las muestra en la consola.
+
+# Ejercicio 7
+Este código define un arreglo llamado calificaciones con varias notas numéricas.
+Después usa la desestructuración de arreglos para obtener los dos primeros elementos y mostrarlos en la consola.
